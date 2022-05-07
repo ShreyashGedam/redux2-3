@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "shreyash",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "rashmi",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "anil",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "seema",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
